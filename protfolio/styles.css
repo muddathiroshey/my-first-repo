@@ -1,5 +1,6 @@
 /*font-family: 'Raleway', sans-serif; */
 body {
+    
     background-color: #f0f7f8;
 }
 
@@ -56,6 +57,10 @@ button:hover {
 }
 
 article > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:auto ;
     border-radius: 20px;
 }
 
@@ -67,7 +72,7 @@ section {
 }
 
 p {
-    color: white;
+        color: white;
 }
 .section-1 {
  
@@ -100,6 +105,7 @@ h1 {
 h2 {
     color: white;
     font-family:  'Raleway', sans-serif ;
+    text-align: center;
 }
 
 
